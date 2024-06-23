@@ -58,7 +58,7 @@ const questionsData = [
       "plot chart",
       "data analysis",
     ],
-    correctOption: 0,
+    correctOption: 1,
   },
   {
     question: "=mod(37,5) returns in excel",
@@ -100,14 +100,40 @@ const questionsData = [
     options: ["windows key+f11", "alt+shift+c", "f11", "f5"],
     correctOption: 2,
   },
+  
+  {
+    question: " ______________ help us to see patterns.",
+    options: ["graphs", "chart", "calculations", "spreadsheets"],
+    correctOption: 0,
+  },
   {
     question: "The shorcut to insert chart in excel is",
     options: ["windows key+f11", "alt+shift+c", "f11", "f5"],
     correctOption: 2,
   },
   {
-    question: " ______________ help us to see patterns.",
-    options: ["graphs", "chart", "calculations", "spreadsheets"],
+    question: "Which of the following is an example of system software",
+    options: ["MS Word", "Operating System OS", "Desktop", "Windows"],
+    correctOption: 1,
+  },
+  {
+    question: "How to start a slide show from the beginning in power point  ?",
+    options: ["f5", "shift+f5", "f3", "shift+f3"],
+    correctOption: 0,
+  },
+  {
+    question: "The feature in MS Excel creates a series of Data",
+    options: ["Auto Complete", "Fill Handler", "AutoFill", "Click and drag cells data"],
+    correctOption: 2,
+  },
+  {
+    question: "What will be the output of =TEXT("3"),
+    options: ["blank", "null", "true", "false"],
+    correctOption: 2,
+  },
+  {
+    question: "No of Rows in ms excel is",
+    options: ["16,384", "1,384", "16,854", "15,554"],
     correctOption: 0,
   },
 ];
