@@ -127,8 +127,8 @@ const questionsData = [
     correctOption: 2,
   },
   {
-    question: "What will be the output of =TEXT("3"),
-    options: ["blank", "null", "true", "false"],
+    question: "What is the cell reference $A$1 in excel ",
+    options: ["relative", "fixed", "absolute", "autofill"],
     correctOption: 2,
   },
   {
